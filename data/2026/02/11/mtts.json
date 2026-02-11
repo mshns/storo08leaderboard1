@@ -191,6 +191,24 @@
   {
     "player_identificator": 4308925,
     "username": "Ostap3107",
+    "tournament_name": "€25 BOUNTY XL",
+    "tournament_id": "1153263374",
+    "buyin": "25.0",
+    "fee": "2.25",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4271199,
+    "username": "drawing.dead",
+    "tournament_name": "€400|Bounty Mini XL",
+    "tournament_id": "1152529673",
+    "buyin": "3.0",
+    "fee": "0.27",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308925,
+    "username": "Ostap3107",
     "tournament_name": "The Festival 5x€0.25 Centroll",
     "tournament_id": "1153268601",
     "buyin": "0.01",
@@ -204,6 +222,15 @@
     "tournament_id": "1153269103",
     "buyin": "0.01",
     "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 2522281,
+    "username": "ZGMforever",
+    "tournament_name": "€0.5 BOUNTY HUNTER",
+    "tournament_id": "1152534579",
+    "buyin": "0.5",
+    "fee": "0.03",
     "tournament_type": "mtt"
   },
   {
@@ -225,12 +252,75 @@
     "tournament_type": "mtt"
   },
   {
+    "player_identificator": 4308925,
+    "username": "Ostap3107",
+    "tournament_name": "€50 BOUNTY HUNTER",
+    "tournament_id": "1153275250",
+    "buyin": "50.0",
+    "fee": "4.5",
+    "tournament_type": "mtt"
+  },
+  {
     "player_identificator": 4308697,
     "username": "GoodEvening",
     "tournament_name": "E2: BIG HELMET SAT - 2 SEATS",
     "tournament_id": "1153277376",
     "buyin": "15.0",
     "fee": "1.35",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4268254,
+    "username": "hiiiiiiiiiit",
+    "tournament_name": "The Festival 2x€5|SEAT|Step 1",
+    "tournament_id": "1153281280",
+    "buyin": "0.5",
+    "fee": "0.05",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308925,
+    "username": "Ostap3107",
+    "tournament_name": "MINI IRISH OPEN 3x€1|Step 1",
+    "tournament_id": "1153286426",
+    "buyin": "0.11",
+    "fee": "0.01",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308925,
+    "username": "Ostap3107",
+    "tournament_name": "The Festival 5x€0.25 Centroll",
+    "tournament_id": "1153290788",
+    "buyin": "0.01",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4334678,
+    "username": "vlad1m1r",
+    "tournament_name": "The Festival 5x€0.25 Centroll",
+    "tournament_id": "1153290788",
+    "buyin": "0.01",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308925,
+    "username": "Ostap3107",
+    "tournament_name": "The Festival 5x€0.50 Centroll",
+    "tournament_id": "1153291719",
+    "buyin": "0.01",
+    "fee": "0.0",
+    "tournament_type": "mtt"
+  },
+  {
+    "player_identificator": 4308925,
+    "username": "Ostap3107",
+    "tournament_name": "IRISH OPEN 5x€0.25 CENTROLL",
+    "tournament_id": "1153291718",
+    "buyin": "0.01",
+    "fee": "0.0",
     "tournament_type": "mtt"
   }
 ]
